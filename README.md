@@ -1,3 +1,5 @@
+<h2> Hi There, Welcome to my Github profile! <img src="https://tocanto.dev/images/Hi.gif" width="30"></h2>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
