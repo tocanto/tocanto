@@ -1,5 +1,14 @@
 <h2 align="center"> Hi There, Welcome to my Github profile! <img src="https://tocanto.dev/images/Hi.gif" width="30"></h2>
 
+### 👨🏻‍💻 &nbsp;About Me
+😎 &nbsp;My name is Timmy Ocanto, a lover of Mathematics.\
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
+🎓 &nbsp;I'm currently studying Reactjs, TypeScript and Flutter.\
+🌱 &nbsp;I'm on track for learning more about web3 and Smart Contracts in Waves Blockchain.\
+✍️ &nbsp;In my free time, I study about Blockchain.\
+💬 &nbsp;Feel free to reach out to me for consulting or just for some interesting discussion.\
+✉️ &nbsp;You can write me an email at timmyocanto@gmail.com. I'll try to respond as soon as I can.\
+
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
