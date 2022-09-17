@@ -1,4 +1,4 @@
-<h2> Hi There, Welcome to my Github profile! <img src="https://tocanto.dev/images/Hi.gif" width="30"></h2>
+<h2 align="center"> Hi There, Welcome to my Github profile! <img src="https://tocanto.dev/images/Hi.gif" width="30"></h2>
 
 ### 🛠 &nbsp;Tech Stack
 
