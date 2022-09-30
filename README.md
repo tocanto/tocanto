@@ -5,7 +5,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Reactjs, TypeScript, RIDE and Flutter.\
 🌱 &nbsp;I'm on track for learning more about web3 and Smart Contracts in Waves Blockchain.\
-✍️ &nbsp;In my free time, I study about Blockchain.\
+✍️ &nbsp;In my free time, I study about Waves Blockchain.\
 💬 &nbsp;Feel free to reach out to me for consulting or just for some interesting discussion.\
 ✉️ &nbsp;You can write me an email at timmyocanto@gmail.com. I'll try to respond as soon as I can.
 
