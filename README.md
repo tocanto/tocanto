@@ -3,9 +3,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 😎 &nbsp;My name is Timmy Ocanto, a lover of Mathematics.\
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying Reactjs, TypeScript, RIDE and Flutter.\
-🌱 &nbsp;I'm on track for learning more about web3 and Smart Contracts in Waves Blockchain.\
-✍️ &nbsp;In my free time, I study about Waves Blockchain.\
+🎓 &nbsp;I'm currently studying React, TypeScript, and Flutter.\
+🌱 &nbsp;I'm on track for learning more about AI.\
+✍️ &nbsp;In my free time, I study about n8n automatizations.\
 💬 &nbsp;Feel free to reach out to me for consulting or just for some interesting discussion.\
 ✉️ &nbsp;You can write me an email at timmyocanto@gmail.com. I'll try to respond as soon as I can.
 
@@ -42,7 +42,7 @@
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/13948154/timmy-ocanto">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/TimmyOcanto">
+		<a style="margin-left: 10px;" target="_blank" href="https://x.com/tocantodev">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
       </div>
 
